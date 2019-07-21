@@ -1,3 +1,3 @@
 # RJ_Sweets_Releases
 
-[RJ Sweets](https://github.com/GauthamAsir/RJ_Sweets_Releases/releases)
+[Download RJ Sweets App Click here](https://github.com/GauthamAsir/RJ_Sweets_Releases/releases)
