@@ -1,3 +1,3 @@
 # RJ_Sweets_Releases
 
-![RJ Sweets](https://github.com/GauthamAsir/RJ_Sweets_Releases/releases)
+[RJ Sweets](https://github.com/GauthamAsir/RJ_Sweets_Releases/releases)
