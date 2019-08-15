@@ -1,0 +1,14 @@
+<AppUpdater>
+  
+  <update>
+    <latestVersion>2.0-alpha.2</latestVersion>
+    <latestVersionCode>2</latestVersionCode>
+    <url>https://github.com/GauthamAsir/RJ_Sweets_Releases/releases/tag/v2.0-alpha.2</url>
+    <releaseNotes>
+- Update Settings Fragment
+- Under the hood changes
+- Bug fixes
+    </releaseNotes>
+  </update>
+ 
+</AppUpdater>
